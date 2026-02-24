@@ -100,6 +100,71 @@ return 0;
 
 
 basic.exe
+-------------------------------------------------------------------------------------------------
+python Content
+---------------------------------------------
+
+1.Python Baisc
+2.Python Data types
+3.String data type
+4.List data type
+5.Tuple data type
+6.Set data type
+7.Dictionary data type
+8.condition
+9.Loop
+	i.Entry Controlled Loop
+		i. For Loop
+			Continue and Break
+		ii. While loop
+			Continue and Break
+	ii.Exit Controlled Loop
+10.Function
+	i. Built-in Function
+	ii. User-defined Function
+11.Exception Handling
+	i. Try
+	ii. Except
+	iii. Else
+	iv. Finally
+12. OOPs [Object Oriented Progamming Structure]
+	4-Pillars of OOPS
+	i.Inheritance
+		i. single/simple Inheritance
+		ii. Multiple Inheritance
+		iii. Multilevel Inheritance
+		iv. Hierarchical Inheritance
+		v. Hybrid Inheritance
+	ii.Polymorphism
+		i. Overriding 
+		ii. Overloading
+	iii.Encapsulation
+	iv. Data Abstraction
+13.File Handling
+	i). Reading Files in Python
+		i.txt file
+		ii. doc file
+		iii. pdf file
+	ii). Writing Files in Python
+		i.txt file
+		ii. doc file
+		iii. pdf file
+14. Lambda Function
+
+15. List Comprehension
+
+16. Generator
+
+17. Decorator
+
+18. JSON
+
+19. API
+
+20. Minimal Project
+
+
+
 
 
 
