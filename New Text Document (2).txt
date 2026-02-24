@@ -1,0 +1,105 @@
+Python:- 
+----------------------------------------
+What is Python?
+-------------------------------------------------------------
+>> Python is a high-level, Interpreted with easy syntax and dynamic programming languages.
+
+
+>> Easy to read
+>> Easy to Write
+>> Used in everywhere
+-----------------------------------------------------------------------------------------------------------
+print("Hello world") - 
+x = "ankit aljflajlfjal"
+type = string
+print("Hello") - 
+print("Delhi") - 
+
+
+object code
+basic.exe
+
+Three types of Translator:
+1). Compiler: It translate your code at once.  C,C++,fortran
+
+3). Assembler: Assembly language
+
+2). Interpreter:- It translate your code line by line.- Python, Java, Kotlin, JavaScript, Ruby, etc 
+
+>> Generally two types of languages:
+
+High Level Language:- These language can be understood by human.
+
+
+Low Level language:- [01010100001111]:- These language can only understood by machine 
+
+
+hello
+[000111101110]
+
+jfaljfoawp
+
+
+
+Machine language:- Binary Digit- [0,1]
+
+
+----------------------------------------------------------------------------------------------
+
+Why Python is Popular
+-------------------------------------------------------
+>> Simple English like syntax
+>> Less code, more work
+>> Huge Community and libraries- [More than 137000]
+
+----------------------------------------------------------
+> Real World uses:-
+------------------------------------------------------------
+>> Web Developement - Django, flask, APIs
+>>  Data Science- And AI
+>> Data Analyst
+>> Machine Learning
+>> Deep Learning
+>> Data Scientiest
+>> Automation
+>> Cyber Security
+>> IoT
+>> Game Development
+>> Mixed Reality
+>> Virtual reality
+etc.
+-----------------------------------------------------------------------------------------------
+
+Installation 
+
+Python-
+
+Python download
+
+IDE-
+
+
+
+
+header file
+
+basic.c
+
+# include <stdio.h>
+
+int main(){
+	int x; // Declaration
+	x = 20;   // Correct
+	char x[5];
+	x = "Ankit title"  // Error
+	
+	printf("Hello");
+
+return 0;
+};
+
+
+basic.exe
+
+
+
